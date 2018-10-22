@@ -1,12 +1,41 @@
+* {
+	background-color: #ecf0f1;
+}
+
 button {
 	font-size: 30px;
 	width: 8%;
 	padding: 10px;
-	margin: 5px;
+	margin: 3px;
+	border-radius: 10px;
+	background-color: #424242;
+	color: white;
 }
 
 input {
-	width: 32%;
+	width: 31%;
 	padding: 20px;
 	margin: 5px;
+	border-radius: 10px;
+	text-align: right;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: white;
+	border: 2px solid #7f8c8d;
+}
+
+.equal {
+	background-color: #3498db;
+}
+
+.cancel {
+	background-color: #27ae60;
+}
+
+.operator {
+	background-color: #e67e22;
+}
+
+.operator2 {
+	background-color: #16a085;
 }
