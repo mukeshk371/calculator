@@ -1,0 +1,12 @@
+button {
+	font-size: 30px;
+	width: 8%;
+	padding: 10px;
+	margin: 5px;
+}
+
+input {
+	width: 32%;
+	padding: 20px;
+	margin: 5px;
+}
